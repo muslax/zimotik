@@ -1,8 +1,12 @@
 {
   "name": "zimotik",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Kata benda dan kata sifat Bahasa Indonesia",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "mocha --reporter spec"
