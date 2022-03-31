@@ -1,0 +1,26 @@
+{
+  "name": "zimotik",
+  "version": "0.0.0",
+  "description": "Kata benda dan kata sifat Bahasa Indonesia",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muslax/zimotik.git"
+  },
+  "keywords": [],
+  "author": "Arif Muslax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muslax/zimotik/issues"
+  },
+  "homepage": "https://github.com/muslax/zimotik#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2",
+    "typescript": "^4.6.3"
+  }
+}
