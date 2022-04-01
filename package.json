@@ -1,6 +1,6 @@
 {
   "name": "zimotik",
-  "version": "0.0.1",
+  "version": "0.0.13",
   "description": "Kata benda dan kata sifat Bahasa Indonesia",
   "main": "index.js",
   "files": [
